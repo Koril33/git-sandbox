@@ -1,2 +1,2 @@
-hello from bob
+hello from bob & alice
 second line
